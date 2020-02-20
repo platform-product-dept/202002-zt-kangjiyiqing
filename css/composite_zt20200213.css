@@ -780,12 +780,166 @@ background: linear-gradient(to right,  rgba(254,149,5,1) 0%,rgba(255,185,24,1) 1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', endColorstr='#ffb918',GradientType=1 ); /* IE6-9 */
 
 }
+
+.section_08 .cont{
+  text-align: center;
+}
+.section_08 .more{
+  padding: 20px 0;
+}
+.section_08 .more a{
+  font-size: 18px;
+  color: #fff;
+}
+.section_08 ul{
+  display: inline-block;
+  margin: 0 auto 40px auto;
+}
+.section_08 ul li{
+  float: left;
+  width: 250px;
+  margin: 0 5px;
+}
+.section_08 .ul2 li{
+  width: 510px;
+}
+.section_08 .ul2 li .liT{
+  height: 63px;
+  line-height: 63px;
+  background: url(../img/main/img_07.png) no-repeat;
+  text-align: left;
+  padding-left: 30px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 600;
+}
+.section_08 .ul2 li .liT span{
+  color: #ffe401;
+}
+.section_08 .ul2 li .liC{
+  height: auto;
+  padding: 30px;
+  padding-top: 15px;
+  text-align: left;
+  position: relative;
+  background: #fff;
+}
+.section_08 .ul2 li .liC table{
+  margin-bottom: 20px;
+}
+.section_08 .ul2 li .liC td{
+  line-height: 60px;
+  font-size: 14px;
+  color: #666;
+}
+.section_08 .ul2 li .liC td img{
+  display: inline-block;
+  margin-right: 10px;
+}
+.section_08 .ul2 li .liC p{
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  height: 30px;
+}
+.section_08 .ul2 li .liC span{
+  color: #f0524b;
+  font-weight: 600;
+  font-size: 30px;
+}
+.section_08 .ul2 li .liC a{
+  position: absolute;
+  right: 40px;
+  top: -30px;
+}
+.section_08 .liB{
+  text-align: center;
+  padding: 20px 0;
+  background: #cfdef3;
+}
+.section_08 .liB a{
+  display: inline-block;
+  font-weight: 600;
+  margin: 0 50px;
+}
+.section_08 .ul3{
+  margin-top: 40px;
+}
+.section_08 .ul3 li{
+  float: left;
+  width: 260px;
+  height: 340px;
+  background: #fff;
+  margin: 0px;
+  text-align: left;
+}
+.section_08 .ul3 .col1{
+  position: relative;
+}
+.section_08 .ul3 .col1 .btn{
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  font-size: 12px;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 15px;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffaa87+0,f47667+100 */
+background: rgb(255,170,135); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(255,170,135,1) 0%, rgba(244,118,103,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(255,170,135,1) 0%,rgba(244,118,103,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(255,170,135,1) 0%,rgba(244,118,103,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffaa87', endColorstr='#f47667',GradientType=1 ); /* IE6-9 */
+
+}
+.section_08 .ul3 .col2{
+  width: 257px;
+}
+.section_08 .ul3 .col2 b{
+  display: block;
+  padding: 40px 30px 30px 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.section_08 .ul3 .col2 .p2{
+  font-size: 14px;
+  color: #999;
+  line-height: 20px;  
+  padding: 0 30px;
+  margin-bottom: 70px;
+}
+.section_08 .ul3 .col2 .price{
+  font-size: 14px;
+  color: #000;
+  line-height: 20px;  
+  padding: 0 30px;
+}
+.section_08 .ul3 .col2 .price span{
+  font-size: 26px;
+  color: #f0524b;
+}
+.section_08 .ul3 .col2 .price2{
+  font-size: 12px;
+  color: #999999;
+  padding: 0 30px;
+  margin-bottom: 30px;
+}
+.section_08 .ul3 .col2 .btn{
+  font-size: 12px;
+  color: #fff;
+  background: #2e9bff;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 30px;
+}
 .sidebar{
   position: fixed;
   left: 20px;
   top: 40%;
-  margin-top: -200px;
-  height: 498px;
+  margin-top: -250px;
+  height: 549px;
   width: 137px;
   background: url(../img/main/img_18.png) no-repeat 0 0;
 }
@@ -797,7 +951,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
   /* background: #f00; */
   margin: 0 5px;
   color: #fff;
-  font-size: 15px;
+  font-size: 12px;
   text-align: center;
 }
 .sidebar a.to1{
@@ -816,6 +970,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
   margin-top: 6px;
 }
 .sidebar a.to6{
+  margin-top: 6px;
+}
+.sidebar a.to7{
   margin-top: 6px;
 }
 .sidebar a.toTop{
