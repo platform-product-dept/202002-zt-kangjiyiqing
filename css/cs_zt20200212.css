@@ -322,12 +322,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
 }
 .section_03 ul{
   padding: 0 35px;
+  padding-bottom: 30px;
   /* padding: 0 5px;
   margin: 0 -10px; */
 }
 .section_03 ul li{
   float: left;
-  width: 33.3%;
+  width: 25%;
 }
 .section_03 ul li>div{
   margin: 0 5px;
@@ -341,7 +342,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
   text-align: center;
 }
 .section_03 .liC{
-  height: 184px;
+  height: 150px;
   padding: 20px 0;
   background: #e5f0ff;
 }
@@ -362,7 +363,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
   border-right: none;
 }
 .section_03 .liC .table1 td b{
-  font-size: 24px;
+  font-size: 16px;
   color: #666;
   font-weight: normal
 }
@@ -386,7 +387,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe9505', end
   line-height: 36px;
   font-size: 16px;
   color: #fff;
-  width: 150px;
+  width: 100px;
   border-radius: 18px;
 /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fe9505+0,ffb918+100 */
 background: rgb(254,149,5); /* Old browsers */
